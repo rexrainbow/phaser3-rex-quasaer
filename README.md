@@ -1,6 +1,6 @@
-# phaser3-rex-quasar (quasaer)
+# Phaser3 in quasar
 
-haser3 in quasar
+[Live demo](https://rexrainbow.github.io/phaser3-rex-quasaer/dist/spa/#/)
 
 ## Install the dependencies
 ```bash
