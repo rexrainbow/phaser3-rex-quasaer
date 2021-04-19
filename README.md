@@ -1,4 +1,4 @@
-# phaser3-rex-quasar" (quasaer)
+# phaser3-rex-quasar (quasaer)
 
 haser3 in quasar
 
