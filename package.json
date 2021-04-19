@@ -2,7 +2,7 @@
   "name": "phaser3-rex-quasaer",
   "version": "0.0.1",
   "description": "Phaser3 in quasar",
-  "productName": "Test",
+  "productName": "phaser3-rex-quasar",
   "author": "Rex",
   "scripts": {
     "test": "echo \"No test specified\" && exit 0"

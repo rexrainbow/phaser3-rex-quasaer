@@ -1,6 +1,6 @@
-# Test (quasaer)
+# phaser3-rex-quasar" (quasaer)
 
-Test
+haser3 in quasar
 
 ## Install the dependencies
 ```bash
